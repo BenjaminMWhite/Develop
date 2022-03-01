@@ -1,5 +1,5 @@
  you arent licensed to kill, or use any other software
-  # Readme Creator
+  # Employee Roledex
   ## Table of Contents
   - [Project Description](#description)
   - [How to install](#How-to-install)
@@ -7,17 +7,17 @@
   - [Author(s)](#Who-built-this)
   - [Questions](#Questions-and-how-to-reach-me)
   ## description
-  IT generates Readmes
+  MAkes a webpage for all employees in a project
   ## How to install
-   its accessible on github
+  you run it through the node
   ## What its used for
-   you just enter the parameteres that are asked for by the program
-   ## Who built this
-    Benjamin White
+  https://drive.google.com/file/d/1k6YG4Q0iHl1LbaNy35rRY4bYGISC3w2Z/view
+  ## Who built this
+  Benjamin White
   ## What are the test parameters
-   to enter different values for the tests
+  just do an npm test
   ## Questions and how to reach me
-   [Github Repository](https://github.com/BenjaminMwhite)
-  [Email](mailto:Bwhitem@gmail.com)
+   [Github Repository](https://github.com/BenjaminMWhite)
+  [Email](mailto:bwhitem@gmail.com)
   
   
